@@ -1,0 +1,11 @@
+node_modules
+client/node_modules
+server/node_modules
+
+.env
+/client/.env
+/server/.env
+
+package-loc.json
+client/package-loc.json
+server/package-loc.json

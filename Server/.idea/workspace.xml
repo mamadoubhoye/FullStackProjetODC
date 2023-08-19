@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e659a76-0e43-45a4-a59a-265d040df8c8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.eslintrc.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Home.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/google.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/img/téléchargement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Bouton.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/LinkTo.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/TextField.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Titre.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/Connexion.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/Inscription.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/Layout.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/SignIn.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/SignUp.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vite.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2U9UnWhbBGMe2r54mRI9uLdHGVm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e659a76-0e43-45a4-a59a-265d040df8c8" name="Changes" comment="" />
+      <created>1692351457985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692351457985</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
