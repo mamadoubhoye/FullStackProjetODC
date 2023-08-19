@@ -9,7 +9,7 @@ function Detail() {
     const {id} = useParams();
 
     useEffect(()=>{
-        fetch(`https://jsonplaceholder.typicode.com/posts/${id}`)
+        fetch(`https://fullstackodc.onrender.com/posts/${id}`)
             .then((response) => response.json())
             .then((json) => setPost(json));
     },[id]);
