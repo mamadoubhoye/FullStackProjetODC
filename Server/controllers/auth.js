@@ -1,5 +1,4 @@
 import User from "../models/users.js"
-import { redirect } from 'react-router-dom'
 
 
 import bcrypt from "bcrypt"
