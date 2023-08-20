@@ -11,8 +11,8 @@ const DB_URL = process.env.MONGO_URL;
 const PORT = process.env.PORT || 5000;
 
 const app = express();
-app.use(express.json());
 app.use(cors());
+app.use(express.json());
 
 app.use("/auth",authRoutes);
 app.use("/posts", postRoutes);
