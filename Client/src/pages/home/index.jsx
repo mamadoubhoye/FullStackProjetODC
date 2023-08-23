@@ -14,7 +14,7 @@ function Home() {
 	const [posts, setPosts] = useState([]);
 	const navigate = useNavigate([])
 	useEffect(() => {
-		fetch('https://fullstackodc.onrender.com/posts',
+		fetch(`https://fullstackodc.onrender.com:${PORT}/auth/posts`,
 			{
 				method: 'GET',
 				headers: {

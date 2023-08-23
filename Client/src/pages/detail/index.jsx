@@ -9,7 +9,7 @@ function Detail() {
     const {id} = useParams();
 
     useEffect(()=>{
-        fetch(`https://fullstackodc.onrender.com/posts/${id}`)
+        fetch(`https://fullstackodc.onrender.com:${PORT}/posts/${id}`)
             .then((response) => response.json())
             .then((json) => setPost(json));
     },[id]);
