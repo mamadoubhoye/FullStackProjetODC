@@ -28,7 +28,6 @@ function Connexion() {
         .then((data)=>{
             if(data.token){
                 localStorage.setItem('user', JSON.stringify(data));
-                alert('User logged in successfully');
                 navigate('/');
             }else{
                 Swal.fire(
