@@ -27,8 +27,9 @@ function Connexion() {
         ).then((res) => res.json())
         .then((data)=>{
             if(data.token){
-                localStorage.setItem('user', JSON.stringify(data))
-                navigate('/')
+                localStorage.setItem('user', JSON.stringify(data));
+                alert('User logged in successfully');
+                navigate('/');
             }else{
                 Swal.fire(
                     'Email or Password incorrect!',

@@ -2,8 +2,8 @@ import  jwt  from "jsonwebtoken";
 
 const protect = async (req, res, next) => {
     //get token from header
+    const secret = "project_odc";
      const token = req.headers.authorization;
-     const secret = "project_odc";
      try {
         if(token){
             const splitToken = token.split(" ")[1];
