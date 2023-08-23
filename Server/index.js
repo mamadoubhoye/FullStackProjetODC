@@ -7,8 +7,8 @@ import postRoutes from './routes/posts.js';
 import authRoutes from "./routes/auth.js";
 
 dotenv.config();
-const DB_URL = process.env.MONGO_URL;
-const PORT = process.env.PORT || 5000;
+const DB_URL = "mongodb+srv://fullstackodc:odcfullstack@crud.rtbpbko.mongodb.net/projet_odc?retryWrites=true&w=majority"
+const PORT = process.env.PORT || 5000
 
 const app = express();
 app.use(express.json());
