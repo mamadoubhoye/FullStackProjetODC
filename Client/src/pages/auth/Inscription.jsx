@@ -25,7 +25,7 @@ function Inscription({ titre, label, type, placeholder, titreBtn, textInUp, lien
             alert('Mot de passe erreur')
         } else {
             fetch(
-                `https://fullstackodc.onrender.com:${PORT}/auth/register`,
+                `https://fullstackodc.onrender.com:5000/auth/register`,
                 {
                     method: 'POST',
                     headers: { "Content-Type": "application/json" },
